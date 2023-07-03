@@ -1,0 +1,114 @@
+
+
+.boton {
+  padding: 22px;
+  text-align: center;
+  margin-left: 300px;
+  background-color: aquamarine;
+}
+
+
+
+body{
+ 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url(fondo2.png);
+}
+
+.galleta {
+  background-image: url(fondo4.png);
+  text-align: center;
+  margin-right: 200px;
+ text-align: center;
+  padding: 2rem;
+  border-radius: .5rem;
+  max-width: 600px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  margin: 0 auto; 
+} 
+ 
+.info {
+  background-image: url(fondo2.png);
+  margin-left: 200px;
+}
+
+.autor {
+  background-image: url(fondo3.png);
+}
+
+/* h3 {
+  text-align: center;
+  padding: 2rem;
+  border-radius: .5rem;
+  max-width: 600px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+  background-image: url("img/fondo1");
+
+} */
+
+/* h4 {
+  text-align: center;
+  padding: 2rem;
+  border-radius: .5rem;
+  max-width: 600px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+} */
+
+h1{
+  text-align: left;
+  font-family:cursive, Georgia;
+  color: rgb(97, 15, 93);
+  text-decoration: double;
+  text-decoration-line:underline;
+  }
+
+
+
+
+/* #fondo {
+  background-image: url('images/fondo1.png');
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
